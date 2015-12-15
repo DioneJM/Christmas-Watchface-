@@ -5,7 +5,7 @@ static TextLayer *s_time_layer; // 12 hour time layer
 static TextLayer *t_time_layer; //24 hour time layer
 static TextLayer *battery_layer; //Battery display 
 
-// The layers for the background
+// The layers for the background.
 static TextLayer *background_first_half; 
 static TextLayer *background_second_half;
 
