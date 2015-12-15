@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "dionemorales@outlook.com",
+    "longName": "Christmas",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Christmas",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "16a53675-31bd-45d5-8698-58eb59a7f76a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
