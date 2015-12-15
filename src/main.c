@@ -113,7 +113,7 @@ static void main_window_unload(Window *window) {
 
 
 static void init() {
-  // Create main Window element and assign to pointer
+  // Create main Window element and assign to pointer.
   s_main_window = window_create();
   
   //Register with TickTimerService
