@@ -7,7 +7,16 @@
     "longName": "Christmas",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/Screenshot",
+                "name": "IMAGE_ONE",
+                "targetPlatforms": [
+                    "basalt"
+                ],
+                "type": "bitmap"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "Christmas",

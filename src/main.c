@@ -138,6 +138,10 @@ static void init() {
 static void deinit() {
   // Destroy Window
   window_destroy(s_main_window);
+  
+  //Unsub from services used
+  tick_timer_service_unsubscribe();
+  battery_state_service_unsubscribe();
 }
 
 int main(void) {
